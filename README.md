@@ -8,7 +8,6 @@ Support for RSS 2.0 and Atom 1.0 feeds.
 
 ![alt text](https://github.com/joszko/RSS_Reader/blob/master/screenshot.JPG)
 
-Created using Python 3
 
 # Requirements
 <ul>

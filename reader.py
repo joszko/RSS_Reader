@@ -86,6 +86,8 @@ def remove_feed():
 
     remove_window.mainloop()
 
+labels = []
+
 
 def main_window():
 
@@ -101,7 +103,7 @@ def main_window():
     txt.grid(row=10, column=0, padx=5, pady=5, sticky='swe', columnspan=2)
 
     def on_select(evt):
-        labels = []
+
         w = evt.widget
         index = int(w.curselection()[0])
 

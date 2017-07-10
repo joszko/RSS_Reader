@@ -16,8 +16,3 @@ Created using Python 3
 <li>BeautifulSoup</li>
 <li>PIL</li>
 </ul>
-
-# TODO:
-<ul>
-<li>Sometimes image is not changing</li>
-</ul>
